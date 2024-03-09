@@ -5,9 +5,9 @@
 <a href="https://wakatime.com/@018dcd1a-4734-4964-965b-f0a608c3d37f"><img src="https://wakatime.com/badge/user/018dcd1a-4734-4964-965b-f0a608c3d37f.svg" alt="Total time coded since Feb 22 2024" /></a>
 </p>
 
-[//]: # (- 🔭 I’m currently working on Django &#40;DRF&#41;)
+- 🔭 I’m currently working on Django (DRF)
 
-- [**BestFolio**](https://rozievich.pythonanywhere.com/)
+[//]: # (- [**BestFolio**]&#40;https://rozievich.pythonanywhere.com/&#41;)
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
