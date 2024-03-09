@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Yunusov Abdulmajid</h1>
-<h3 align="center">I am a Python Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Abdulmajid</h1>
+<h3 align="center">A passionate python developer from Uzbekistan</h3>
+<p align="center">
+<a href="https://wakatime.com/@toepam" target="_blank"><img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" /></a>
+</p>
 
+- 🔭 I’m currently working on Django (DRF)
 
-- 🔭 I’m currently working on [**BestFolio**](https://rozievich.pythonanywhere.com/)
+- [**BestFolio**](https://rozievich.pythonanywhere.com/)
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
 - 💬 Ask me about **Python, Aiogram, Docker, Django, DRF, Redis, Celery, Postgresql**
-
+- 📰 I regularly post materials on [Django Rest Framework](https://t.me/+jA2bxo8NKlJmNjFi)
 - 📫 How to reach me **toepammiddle@gmail.com**
 
 [//]: # (- 📄 Know about my experiences by this )
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/under-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oybek-nurmamatov-036249263" height="30" width="40" /></a>
 <a href="https://instagram.com/yunusovabdulmajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oybek_rozievich" height="30" width="40" /></a>
@@ -39,13 +43,35 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=039BE5&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-information?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=flat&logo=SQLAlchemy)
+![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
 
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toEpam&show_icons=true&locale=en&layout=compact&theme=radical" alt="toEpam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toEpam&show_icons=true&locale=en&theme=radical" alt="toEpam" /></p>
-
 # 📊 LeetCode Stats:
 <p align="center"><img src="https://leetcard.jacoblin.cool/toepammiddle?theme=nord&font=Allerta&ext=heatmap"></p># toEpam
+
+# 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=toEpam&theme=radical">
+<br/>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toEpam&theme=tokyonight">
+<br/>
+ 
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=toEpam&theme=tokyonight&hide_border=true" alt="toEpam">
+
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=toEpam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toEpam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</p>
+<br/>
+
+## 👁️ Number of visits:
+<p align="center">
+   <img src="https://profile-counter.glitch.me/{toepam}/count.svg"/>
+</p>
