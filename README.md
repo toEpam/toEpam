@@ -66,7 +66,7 @@
  
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=toEpam&theme=tokyonight&hide_border=true" alt="toEpam****">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=toEpam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+[//]: # (<img width="80%" src="https://github-readme-stats.vercel.app/api?username=toEpam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">)
 
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toEpam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
