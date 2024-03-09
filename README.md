@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdulmajid</h1>
 <h3 align="center">A passionate python developer from Uzbekistan</h3>
 <p align="center">
-<a href="https://wakatime.com/@toepam" target="_blank"><img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" /></a>
+[![wakatime](https://wakatime.com/badge/user/018dcd1a-4734-4964-965b-f0a608c3d37f.svg)](https://wakatime.com/@018dcd1a-4734-4964-965b-f0a608c3d37f)
+[//]: # (<a href="https://wakatime.com/@toepam" target="_blank"><img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" /></a>)
 </p>
 
 - 🔭 I’m currently working on Django (DRF)
@@ -63,7 +64,7 @@
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toEpam&theme=tokyonight">
 <br/>
  
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=toEpam&theme=tokyonight&hide_border=true" alt="toEpam">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=toEpam&theme=tokyonight&hide_border=true" alt="toEpam****">
 
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=toEpam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
