@@ -46,6 +46,7 @@
 ![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-information?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white) ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 ![](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)
+
 [//]: # (![Redis]&#40;https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&#41;)
 
 [//]: # (![SQLite]&#40;https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&#41; )
