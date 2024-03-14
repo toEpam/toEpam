@@ -5,7 +5,7 @@
 <a href="https://wakatime.com/@018dcd1a-4734-4964-965b-f0a608c3d37f"><img src="https://wakatime.com/badge/user/018dcd1a-4734-4964-965b-f0a608c3d37f.svg" alt="Total time coded since Feb 22 2024" /></a>
 </p>
 
-- 🔭 I’m currently working on <a href="https://t.me/FromZeroToHeroPython"> FromZeroToHeroPython </a>
+- 🔭 I’m currently working on <a href="https://templify.uz/"> Templify Docs </a>
 
 [//]: # (- )
 
